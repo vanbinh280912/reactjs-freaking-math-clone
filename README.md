@@ -9,5 +9,6 @@
    </tr> 
    <tr>
     <td> <img src="https://github.com/Muharrem-Yildirim/reactjs-freaking-math-clone/blob/main/screenshots/Screenshot_3.png?raw=true"  width = "100%"></td>
+    <td> <img src="https://github.com/Muharrem-Yildirim/reactjs-freaking-math-clone/blob/main/screenshots/Screenshot_4.png?raw=true"  width = "100%"></td>
   </tr>
 </table>
