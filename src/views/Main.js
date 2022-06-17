@@ -35,18 +35,15 @@ const FooterText = styled.span`
 
 const Buttons = styled.div`
   display: flex;
-
   flex-direction: column;
   align-items: center;
   flex-grow: 1;
 `;
 
-const Container = styled.div`
+const Container = styled.form`
   width: 100%;
   height: 100%;
-
   display: flex;
-
   flex-direction: column;
   align-items: center;
   justify-content: center;

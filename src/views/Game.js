@@ -65,9 +65,9 @@ class Main extends React.Component {
         operation: "-",
         inaccuracy: 0,
       },
-      isAnswered: false,
-      reanimateIdx: 0,
-      score: 0,
+        isAnswered: false,
+        reanimateIdx: 0,
+        score: 0,
     };
   }
 
